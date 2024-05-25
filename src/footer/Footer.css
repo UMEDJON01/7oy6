@@ -1,0 +1,14 @@
+.footer {
+  display: flex;
+
+  justify-content: center;
+  background-color: rgba(5, 240, 3, 0.2);
+  flex-direction: column;
+}
+
+.footer a {
+  display: flex;
+
+  font-size: 34px;
+  font-family: "Times New Roman", Times, serif;
+}
